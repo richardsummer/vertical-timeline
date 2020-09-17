@@ -9,6 +9,7 @@ div {
   color: #fff;
   text-align: center;
   font-family: 'Roboto', sans-serif;
+  font-size: 18px;
 }
 
 .section-1 {
@@ -27,6 +28,7 @@ div {
   /* 112px total width-45px total height */
   background-color: #FF3C4E;
   display: inline-block;
+  line-height: 45px;
   position: absolute;
   right: 0;
   top: 0;
@@ -52,13 +54,21 @@ div {
   /* 121px total width-44px total height */
   background-color: #FF3C4E;
   display: inline-block;
+  line-height: 45px;
   position: absolute;
-  right: 0;
+  left: 0;
   top: 0;
   width: 121px;
   height: 45px;
   /* font-size: 20px; */
 }
+
+img {
+  width: 513px;
+  height: 200px;
+}
+
+/* Image = 513px total width-202px total height */
 
 .section-3 {
   /* 515px total width-198px total height */
@@ -75,6 +85,7 @@ div {
   /* 110px total width-45px total height */
   background-color: #FF3C4E;
   display: inline-block;
+  line-height: 45px;
   position: absolute;
   right: 0;
   top: 0;
